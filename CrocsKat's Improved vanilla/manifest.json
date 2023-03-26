@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "CrocsKat's resource pack.",
+    "name": "Crocskat's Resource Pack",
+    "uuid": "c54e36f7-9c8d-43ac-a403-8adac7797dde",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 19, 70]
+  },
+  "modules": [
+    {
+      "description": "CrocsKat's resource pack.",
+      "type": "resources",
+      "uuid": "ebafaa44-3b50-4d64-98fc-78aefaad5b3c",
+      "version": [0, 0, 1]
+    }
+  ]
+}
