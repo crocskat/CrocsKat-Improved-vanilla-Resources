@@ -12,6 +12,12 @@ CrocsKat's Improved Vanilla Resource is a Minecraft resource pack that aims to e
 - Removed pumpkin blur for a clearer view
 - HUD now appears when inventory is open
 - Screen will no longer close when players take damage
+- Removed item flying animations in the inventory.
+- Removed marketplace button animations.
+- Updated the title to properly reflect the game as "Minecraft Bedrock Edition".
+
+We are continuously working to improve the game and appreciate any feedback. Thank you for playing Minecraft Bedrock Edition!
+
 
 ## Installation
 
