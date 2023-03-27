@@ -4,14 +4,6 @@
   //---------------------------------------------------------------------------
   // Common
   //---------------------------------------------------------------------------
-  "toolbar_panel/toolbar_background/toolbar_stack_panel/help_button_panel": {
-		"modifications": [
-			{
-				"control_name": "help_button",
-				"operation": "remove"
-			}
-		]
-	}
 
   "inventory_x_gamepad_helper@common.gamepad_helper_x_14": {
     "bindings": [
@@ -2106,6 +2098,8 @@
   "help_button@common.button": {
     "size": [15, 15],
     "layer": 5,
+    //removing the help button
+    "operation": "remove",
 
     "visible": "(not $education_edition_china)",
 

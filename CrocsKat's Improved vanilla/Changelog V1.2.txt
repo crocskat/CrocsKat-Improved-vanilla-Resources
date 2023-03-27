@@ -1,0 +1,8 @@
+Changelog for CrocsKat's Improved Vanilla Ressource:
+
+- Removed flying animations in the inventory.
+- Removed marketplace button animations.
+- Implemented a small bug fix.
+- Modified the code to improve performance and stability.
+- Updated the title to properly reflect the game as "Minecraft Bedrock Edition".
+
