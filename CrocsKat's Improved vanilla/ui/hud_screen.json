@@ -819,12 +819,6 @@
                     "binding_name": "#inventory_stack_count",
                     "binding_type": "collection",
                     "binding_collection_name": "$stack_count_collection_name"
-                  },
-                  {
-                    "binding_name": "#stack_count_visible",
-                    "binding_name_override": "#visible",
-                    "binding_type": "collection",
-                    "binding_collection_name": "$stack_count_collection_name"
                   }
                 ]
               }
